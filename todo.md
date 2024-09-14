@@ -6,3 +6,4 @@
 Aula 02:
 
 16:48 - Continuação da tabela
+36:00 - finalizando backend e começando o front
